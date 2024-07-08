@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPOSITORY=/home/ubuntu  #1
-PROJECT_NAME=likelion-ssu-deploy-session
+PROJECT_NAME=likelion-ssu-deploy-study
 
 cd $REPOSITORY/$PROJECT_NAME/  #2
 
